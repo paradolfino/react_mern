@@ -17,12 +17,14 @@ passport.use(
   )
 );
 
-app.get(//
+app.get(
   "/auth/google",
   passport.authenticate("google", {
     scope: ["profile", "email"]
   })
 );
+
+//this is an effort to change
 
 app.get("/auth/google/callback", passport.authenticate("google"));
 

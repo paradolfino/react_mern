@@ -1,0 +1,2 @@
+24/12/2017 17:56: begin implementation of redux
+24/12/2017 18:01: create authReducer and index.js in reducers folder

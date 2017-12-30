@@ -10,6 +10,9 @@ const App = () => {
     return (
         <div>
             <BrowserRouter>
+                <div>
+                    <Route path="/" component={Landing} />
+                </div>
             </BrowserRouter>
         </div>
     );

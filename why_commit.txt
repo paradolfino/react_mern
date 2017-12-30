@@ -3,3 +3,4 @@
 29/12/2017 18:00:pool[pretty-jumping-hills-tb7u38]: begin work on implementing react router
 30/12/2017 17:12:pool[pretty-jumping-rivers-6kf2v4]: add first route for a dummy landing component
 30/12/2017 17:20:pool[pretty-flying-cabins-vfo6d0]: add new route and set up exact paths
+30/12/2017 17:32:pool[brilliant-shining-villages-ir136y]: move header to own component file

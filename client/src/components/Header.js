@@ -4,19 +4,13 @@ class Header extends Component {
   render() {
     return (
       <nav>
-        <div class="nav-wrapper">
-          <a href="#" class="brand-logo">
+        <div className="nav-wrapper">
+          <a href="#" className="brand-logo">
             Dmailer
           </a>
-          <ul id="nav-mobile" class="right hide-on-med-and-down">
+          <ul id="nav-mobile" className="right hide-on-med-and-down">
             <li>
-              <a href="sass.html">Sass</a>
-            </li>
-            <li>
-              <a href="badges.html">Components</a>
-            </li>
-            <li>
-              <a href="collapsible.html">JavaScript</a>
+              <a href="#">Login with Google</a>
             </li>
           </ul>
         </div>

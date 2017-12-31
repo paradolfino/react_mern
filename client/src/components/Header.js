@@ -6,7 +6,7 @@ class Header extends Component {
       <nav>
         <div class="nav-wrapper">
           <a href="#" class="brand-logo">
-            Logo
+            Header
           </a>
           <ul id="nav-mobile" class="right hide-on-med-and-down">
             <li>
